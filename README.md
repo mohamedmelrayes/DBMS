@@ -13,7 +13,7 @@ Clone the Repository: Clone this repository to your local machine using the foll
 
 bash
 Copy code
-git clone https://github.com/your-username/dbms-simulator.git
+git clone https://github.com/mohamedmelrayes/DBMS.git
 Navigate to the Directory: Change directory to the cloned repository:
 
 bash

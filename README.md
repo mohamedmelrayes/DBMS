@@ -11,8 +11,6 @@ The Database Management System (DBMS) Simulator is a project developed using Bas
 - **Database Creation:** Allows users to create databases with specified names.
 - **Table Management:** Supports the creation, modification, and deletion of tables within databases.
 - **Data Manipulation:** Enables users to insert, update, delete, and query data within tables.
-- **Transaction Support:** Provides support for transactions to ensure data integrity and consistency.
-- **Backup and Restore:** Offers functionality for backing up and restoring databases for data preservation.
 - **Query Optimization:** Implements basic query optimization techniques for improved performance.
 
 ## How to Use
@@ -24,7 +22,7 @@ git clone https://github.com/mohamedmelrayes/DBMS.git
 cd dbms-simulator
 
 3. **Run the Simulator:** Execute the Bash script to start the DBMS Simulator:
-./dbms_simulator.sh
+./mainmenu.sh
 
 4. **Follow the Instructions:** Follow the on-screen instructions to create databases, tables, and perform data manipulation tasks.
 
